@@ -1,6 +1,7 @@
 📱 Mobile Sales Performance Analysis
 
 Business Intelligence | Power BI Interactive Dashboard
+**Live Dashboard:** [View Interactive Report here](https://app.powerbi.com/view?r=eyJrIjoiZmFiNDZmOTctOWE3ZS00ZjYzLTkyYjQtY2EyZTAzN2M2MzVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 🔎 Overview
 
